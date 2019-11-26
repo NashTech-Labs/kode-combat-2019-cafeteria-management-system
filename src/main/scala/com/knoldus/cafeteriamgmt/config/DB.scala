@@ -11,3 +11,4 @@ trait DB {
     db.close()
   }
 }
+
